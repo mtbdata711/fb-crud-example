@@ -1,0 +1,33 @@
+{
+    "content": "",
+    "metaData": {
+        "StartDate": [
+            "1970-01-01"
+        ],
+        "EndDate": [
+            "1970-01-01"
+        ],
+        "CourseDateID": [
+            "12062"
+        ],
+        "Name": [
+            "Digital Marketing Strategy Online Short Course"
+        ],
+        "CourseID": [
+            "ONLINEobss"
+        ],
+        "BookingLink": [
+            "https://ual.accessplanit.com/accessplansandbox/checkout/AddItems?coursedateid=12062"
+        ],
+        "Price": [
+            "£0.00"
+        ],
+        "Status": [
+            "Available"
+        ],
+        "PlacesRemaining": [
+            "20"
+        ]
+    },
+    "key": "https://course-date/12062"
+}
