@@ -32,6 +32,14 @@
       "On campus",
       "Online"
     ],
+    "Schedule": [
+      "Monday - Friday (No class Mon 31st May)",
+      "Mon, Weds, Fri"
+    ],
+    "Duration": [
+      "3 weeks",
+      "1 week"
+    ],
     "StartDate": [
       "1970-01-01",
       "1970-01-01"
