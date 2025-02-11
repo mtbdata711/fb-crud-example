@@ -1,65 +1,89 @@
 {
-    "content": "",
-    "metaData": {
-        "Name": ["Digital Marketing Strategy Online Short Course"],
-        "CourseID": ["ONLINEobss"],
-        "CourseLevel": ["Beginner"],
-        "Description": ["This online short course will introduce you to the key digital marketing strategies and tools to help you build a successful marketing strategy for your business."],
-        "Image": ["https://www.arts.ac.uk/__data/assets/image/0006/1220735/Online-Short-Courses-Image-Template-1.jpg"],
-        "Type": ["Online Short Course"],
-        "College": ["Central Saint Martins"],
-        "StartDate": [
-          "1970-01-01",
-          "1970-01-01"
-        ],
-        "EndDate": [
-          "1970-01-01",
-          "1970-01-01"
-        ],
-        "StartTime": [
-          "2024-08-21T18:30:00",
-          "2024-09-25T18:30:00"
-        ],
-        "EndTime": [
-          "2024-08-21T18:30:00",
-          "2024-09-25T18:30:00"
-        ],
-        "Location": [
-          "London, Stratford",
-          "Online Short Course"
-        ],
-        "Venue": [
-          "Carpenters Road E20 2AQ",
-          "Online"
-        ],
-        "StartingMonth": [
-          "4",
-          "5"
-        ],
-        "CourseDateID": [
-          "12062",
-          "12063"
-        ],
-        "Price": [
-          "0.00",
-          "0.00"
-        ],
-        "Status": [
-          "Available",
-          "Available"
-        ],
-        "PlacesRemaining": [
-          "20",
-          "20"
-        ],
-        "BookingLink": [
-          "https://ual.accessplanit.com/accessplansandbox/checkout/AddItems?coursedateid=12062",
-          "https://ual.accessplanit.com/accessplansandbox/checkout/AddItems?coursedateid=12063"
-        ],
-        "Tutor": [
-          "Dr John Doe, Dr Jane Doe",
-          "Dr Arts London, Dr Arts Falmouth"
-        ]
-    },
-    "key": "https://short-course/ONLINEobss"
+  "content": "",
+  "metaData": {
+    "Name": [
+      "Digital Marketing Strategy Online Short Course"
+    ],
+    "CourseID": [
+      "ONLINEobss"
+    ],
+    "CourseLevel": [
+      "Beginner"
+    ],
+    "Description": [
+      "This online short course will introduce you to the key digital marketing strategies and tools to help you build a successful marketing strategy for your business."
+    ],
+    "Image": [
+      "https://www.arts.ac.uk/__data/assets/image/0006/1220735/Online-Short-Courses-Image-Template-1.jpg"
+    ],
+    "Type": [
+      "Online Short Course"
+    ],
+    "College": [
+      "Central Saint Martins"
+    ],
+    "Subject": [
+      "Digital Marketing"
+    ],
+    "Subcategory": [
+      "Ceramics"
+    ],
+    "Mode": [
+      "On campus",
+      "Online"
+    ],
+    "StartDate": [
+      "1970-01-01",
+      "1970-01-01"
+    ],
+    "EndDate": [
+      "1970-01-01",
+      "1970-01-01"
+    ],
+    "StartTime": [
+      "2024-08-21T18:30:00",
+      "2024-09-25T18:30:00"
+    ],
+    "EndTime": [
+      "2024-08-21T18:30:00",
+      "2024-09-25T18:30:00"
+    ],
+    "Location": [
+      "London, Stratford",
+      "Online Short Course"
+    ],
+    "Venue": [
+      "Carpenters Road E20 2AQ",
+      "Online"
+    ],
+    "StartingMonth": [
+      "4",
+      "5"
+    ],
+    "CourseDateID": [
+      "12062",
+      "12063"
+    ],
+    "Price": [
+      "0.00",
+      "0.00"
+    ],
+    "Status": [
+      "Available",
+      "Available"
+    ],
+    "PlacesRemaining": [
+      "20",
+      "20"
+    ],
+    "BookingLink": [
+      "https://ual.accessplanit.com/accessplansandbox/checkout/AddItems?coursedateid=12062",
+      "https://ual.accessplanit.com/accessplansandbox/checkout/AddItems?coursedateid=12063"
+    ],
+    "Tutor": [
+      "Dr John Doe, Dr Jane Doe",
+      "Dr Arts London, Dr Arts Falmouth"
+    ]
+  },
+  "key": "https://short-course/ONLINEobss"
 }
