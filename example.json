@@ -93,7 +93,7 @@
       "Dr Arts London, Dr Arts Falmouth"
     ],
     "TutorBios": [
-      "[  {    Name: [\"John Doe\", \"Jane Doe\"],    Description: [\"<p>This is a test</p>\", \"<p>This isn/'t a test</p>\"],  },  {    Name: [\"John Arts\", \"Jane Science\"],    Description: [\"<p>This is a tutor bio</p>\", \"<p>This is some text</p>\"],  },]"
+      "[{\"Name\": [\"John Doe\",\"Jane Doe\"],\"Description\": [\"<p>This is a test</p>\",\"<p>This isn/'t a test</p>\"]},{\"Name\": [\"John Arts\",\"Jane Science\"],\"Description\": [\"<p>This is a tutor bio</p>\",\"<p>This is some text</p>\"]}]"
     ]
   },
   "key": "https://short-course/ONLINEobss"
